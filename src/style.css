@@ -1,0 +1,82 @@
+body{
+    width: 1440px;
+    height: 80vh;
+    font-family: 'Open Sans';
+    background-image: url(./img/bg-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+html{
+    font-family: 'Poppins' , sans-serif;
+    
+
+}
+
+html{
+    background-color: hsl(257, 40%, 49%);
+   
+}
+
+
+header .logo{
+    padding: 20px;
+    margin: 5px;
+    width: 10px;
+    
+}
+
+.hero{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    margin: 10px;
+    padding: 20px;
+    
+}
+
+main .menu-lateral{
+    display: flex;
+    padding-bottom: 40px;
+}
+
+main .subtitulo{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    
+}
+
+.texto{
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.botao{
+    font-family: 'Open Sans';
+    font-size: 14px;
+    margin-top: 15px;
+    color: hsl(228, 45%, 44%);
+    padding: 10px 50px ;
+    display: flex;
+    text-align: center;
+    border-radius: 50px;
+    
+    
+}
+
+.botao:hover{
+    color: rgb(185, 173, 173);
+    transition: 0.4s;
+    
+}
+
+section .icons{
+    color: #fff;
+    gap: 10px;
+    display: flex;
+    justify-content: end;    
+    
+}
